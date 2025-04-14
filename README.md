@@ -19,4 +19,4 @@ If you are developing a production application, we recommend using TypeScript an
 4. Open your browser to http://localhost:5175 (or whatever Vite shows), and you should see your expense tracker.
 
 # Link to run the app on the browser
-Copy, paste and open this link on your browser o open the deployed app.
+Copy, paste and open this link on your browser o open the deployed app: "expense-table-code-challenge.vercel.app"
